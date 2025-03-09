@@ -1,0 +1,56 @@
+[
+  {
+    "id": "unique-id-2",
+    "name": "UpdatedProteinNameAgain",
+    "sequence": "ATGCGTA",
+    "molecularWeight": 60000,
+    "description": "Updated description for the protein again",
+    "createdAt": "2025-01-02T12:00:00Z",
+    "updatedAt": "2025-02-11T09:08:46.253Z"
+  },
+  {
+    "id": "9282cf32-63db-401a-8a4b-817c810d00b6",
+    "name": "ProteinC",
+    "sequence": "AAGTCCGGAAAAAAAAAAAAAA",
+    "molecularWeight": 2012.399999999999,
+    "description": "A test protein",
+    "createdAt": "2025-02-11T02:49:14.716Z",
+    "updatedAt": "2025-02-11T02:49:14.716Z"
+  },
+  {
+    "id": "eb4d36ab-bb0b-4053-ad3e-1303c51d2951",
+    "name": "ProteinD",
+    "sequence": "AAGGGGGCCCCAAAATTTTTTTCCGGA",
+    "molecularWeight": 2710.299999999999,
+    "description": "A test protein with 9 characters",
+    "createdAt": "2025-02-11T03:17:14.004Z",
+    "updatedAt": "2025-02-11T03:17:14.005Z"
+  },
+  {
+    "id": "acaf814d-818a-4438-ab96-9cce21584ab8",
+    "name": "Protein_AAGTCCGG_1739244262",
+    "sequence": "AAGTCCGGATTTTCGAAACG",
+    "molecularWeight": 1990.3999999999994,
+    "description": "",
+    "createdAt": "2025-02-11T03:24:22.481Z",
+    "updatedAt": "2025-02-11T03:24:22.483Z"
+  },
+  {
+    "id": "997c9b07-0ff7-4a07-becd-5218b472ac0b",
+    "name": "ProteinE",
+    "sequence": "GGGGGGGGGGGGGGGGGGGGGGG",
+    "molecularWeight": 1727.2999999999993,
+    "description": "Invalid protein",
+    "createdAt": "2025-02-11T06:07:35.428Z",
+    "updatedAt": "2025-02-11T06:07:35.431Z"
+  },
+  {
+    "id": "04066d23-74bd-4bbd-b472-32086c2b43fb",
+    "name": "ProteinA",
+    "sequence": "AAGGCTTAAAAAAAAAAAAAAAAAAAAAA",
+    "molecularWeight": 2647.9999999999986,
+    "description": "Example protein",
+    "createdAt": "2025-02-11T09:09:39.884Z",
+    "updatedAt": "2025-02-11T09:09:39.884Z"
+  }
+]
